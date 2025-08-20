@@ -1,16 +1,33 @@
-# dukcapil
+# 🟢 Dukcapil Digital  
 
-A new Flutter project.
+Selamat datang di **Dukcapil Digital** – Aplikasi layanan administrasi kependudukan berbasis digital.  
+Tema: Hijau Putih 🌿
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Deskripsi
+Aplikasi ini memudahkan masyarakat dalam mengakses layanan Dukcapil secara cepat dan efisien.  
+Tersedia untuk perangkat Android dengan antarmuka yang sederhana dan ramah pengguna.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Fitur
+- ✅ Pendaftaran data kependudukan secara online  
+- ✅ Update data KK & KTP  
+- ✅ Cek status layanan  
+- ✅ Notifikasi real-time  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📥 Download Aplikasi  
+
+Klik tombol di bawah untuk mengunduh aplikasi:  
+
+[![Download APK](https://img.shields.io/badge/📥_Download-APK-green?style=for-the-badge)](https://example.com/dukcapil-digital.apk)
+
+
+---
+
+## 📞 Kontak  
+- 📧 Email: **dukcapil@example.com**  
+- 📷 Instagram: **@dukcapil_digital**  
