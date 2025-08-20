@@ -23,7 +23,7 @@ Tersedia untuk perangkat Android dengan antarmuka yang sederhana dan ramah pengg
 
 Klik tombol di bawah untuk mengunduh aplikasi:  
 
-[![Download APK](https://img.shields.io/badge/📥_Download-APK-green?style=for-the-badge)](https://example.com/dukcapil-digital.apk)
+[![Download APK](https://img.shields.io/badge/📥_Download-APK-green?style=for-the-badge)](https://github.com/ikyyy921/dukcapil/releases/download/v1.0.0/app-release.apk)
 
 
 ---
@@ -31,3 +31,4 @@ Klik tombol di bawah untuk mengunduh aplikasi:
 ## 📞 Kontak  
 - 📧 Email: **dukcapil@example.com**  
 - 📷 Instagram: **@dukcapil_digital**  
+
